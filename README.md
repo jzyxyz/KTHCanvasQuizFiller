@@ -8,5 +8,10 @@
 3. Paste outpute to *fillQuizAns.js* and Copy&Paste&Run on redo page
 
 All text input fields should be autofilled.
+And headers of questions you answered wrong will be hightlighted.
+![Sample](static/quizFiller.png)
 
+
+### If you get errors running the script, try to enable ES6 features
+open [flag](chrome://flags/#enable-javascript-harmony) in browser and enable it.
 ##### Only text input supported, others to be added.
