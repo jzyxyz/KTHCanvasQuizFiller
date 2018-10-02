@@ -12,6 +12,7 @@ And headers of questions you answered wrong will be hightlighted.
 ![Sample](static/quizFiller.png)
 
 
-### If you get errors running the script, try to enable ES6 features
-open [flag](chrome://flags/#enable-javascript-harmony) in browser and enable it.
-##### Only text input supported, others to be added.
+### NB
+1. If you get **errors** running the script, try to enable ES6 features.
+  Open ***chrome://flags/#enable-javascript-harmony*** in chrome and enable harmony.
+2. Only text input supported, others to be added. Don't forget to answer other questions!
